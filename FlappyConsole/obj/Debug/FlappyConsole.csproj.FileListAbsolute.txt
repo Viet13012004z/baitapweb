@@ -1,0 +1,9 @@
+E:\web thay cop\FlappyWebSolution\FlappyConsole\obj\Debug\FlappyConsole.csproj.AssemblyReference.cache
+E:\web thay cop\FlappyWebSolution\FlappyConsole\obj\Debug\FlappyConsole.csproj.CoreCompileInputs.cache
+E:\web thay cop\FlappyWebSolution\FlappyConsole\bin\Debug\FlappyConsole.exe
+E:\web thay cop\FlappyWebSolution\FlappyConsole\bin\Debug\FlappyConsole.pdb
+E:\web thay cop\FlappyWebSolution\FlappyConsole\bin\Debug\GameLogicLibrary.dll
+E:\web thay cop\FlappyWebSolution\FlappyConsole\bin\Debug\GameLogicLibrary.pdb
+E:\web thay cop\FlappyWebSolution\FlappyConsole\obj\Debug\FlappyCo.46E4D23E.Up2Date
+E:\web thay cop\FlappyWebSolution\FlappyConsole\obj\Debug\FlappyConsole.exe
+E:\web thay cop\FlappyWebSolution\FlappyConsole\obj\Debug\FlappyConsole.pdb

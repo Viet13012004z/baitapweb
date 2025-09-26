@@ -1,0 +1,11 @@
+E:\web thay cop\FlappyWebSolution\FlappyWinform\bin\Debug\FlappyWinform.exe
+E:\web thay cop\FlappyWebSolution\FlappyWinform\bin\Debug\FlappyWinform.pdb
+E:\web thay cop\FlappyWebSolution\FlappyWinform\bin\Debug\GameLogicLibrary.dll
+E:\web thay cop\FlappyWebSolution\FlappyWinform\bin\Debug\GameLogicLibrary.pdb
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.csproj.AssemblyReference.cache
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.Properties.Resources.resources
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.csproj.GenerateResource.cache
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.csproj.CoreCompileInputs.cache
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWi.7321F429.Up2Date
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.exe
+E:\web thay cop\FlappyWebSolution\FlappyWinform\obj\Debug\FlappyWinform.pdb

@@ -1,0 +1,10 @@
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\bin\FlappyWebServer1.dll.config
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\bin\FlappyWebServer1.dll
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\bin\FlappyWebServer1.pdb
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\bin\GameLogicLibrary.dll
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\bin\GameLogicLibrary.pdb
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\obj\Debug\FlappyWebServer1.csproj.AssemblyReference.cache
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\obj\Debug\FlappyWebServer1.csproj.CoreCompileInputs.cache
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\obj\Debug\FlappyWe.95475B19.Up2Date
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\obj\Debug\FlappyWebServer1.dll
+E:\web thay cop\FlappyWebSolution\FlappyWebServer1\obj\Debug\FlappyWebServer1.pdb

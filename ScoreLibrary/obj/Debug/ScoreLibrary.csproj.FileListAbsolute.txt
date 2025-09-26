@@ -1,0 +1,6 @@
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\bin\Debug\ScoreLibrary.dll
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\bin\Debug\ScoreLibrary.pdb
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\obj\Debug\ScoreLibrary.csproj.AssemblyReference.cache
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\obj\Debug\ScoreLibrary.csproj.CoreCompileInputs.cache
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\obj\Debug\ScoreLibrary.dll
+E:\web thay cop\FlappyWebSolution\ScoreLibrary\obj\Debug\ScoreLibrary.pdb
